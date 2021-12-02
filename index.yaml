@@ -3,6 +3,19 @@ entries:
   snapshot-controller:
   - apiVersion: v2
     appVersion: 4.2.1
+    created: "2021-12-02T17:02:00.206894464Z"
+    description: A Helm chart for Kubernetes
+    digest: f6ef7a132def6a16c2dd0e493bdba20579f6bea90e4df42755973f06a62fb46b
+    maintainers:
+    - name: kaskol10
+      url: https://github.com/kaskol10
+    name: snapshot-controller
+    type: application
+    urls:
+    - https://github.com/kaskol10/external-snapshotter/releases/download/helm-chart-snapshot-controller-4.2.3/snapshot-controller-4.2.3.tgz
+    version: 4.2.3
+  - apiVersion: v2
+    appVersion: 4.2.1
     created: "2021-12-02T10:07:34.11356447Z"
     description: A Helm chart for Kubernetes
     digest: 8fa3284f5afa81e6c3bf8fe8a9168f22977080295fb2e16081fdefb9e0c30d22
@@ -14,4 +27,4 @@ entries:
     urls:
     - https://github.com/kaskol10/external-snapshotter/releases/download/helm-chart-snapshot-controller-4.2.2/snapshot-controller-4.2.2.tgz
     version: 4.2.2
-generated: "2021-12-02T10:07:34.11357667Z"
+generated: "2021-12-02T17:02:00.206902364Z"
